@@ -14,8 +14,7 @@ int main() {
 
     x = a * y * z;
 
-    printf("введіть значення x is %d\n", x);
+    printf("введіть значення x є: %d\n", x);
 
     return 0;
 }
-
